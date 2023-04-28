@@ -1,9 +1,9 @@
 # .github
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nct911/.github/images/nct911Logo-White.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nct911/.github/images/nct911Logo-Color.png">
-  <img alt="North Central Texas Emergency Communications District Logo" src="https://github.com/nct911/.github/images/nct911Logo-Color.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nct911/.github/main/images/nct911Logo-White.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nct911/.github/main/images/nct911Logo-Color.png">
+  <img alt="North Central Texas Emergency Communications District Logo" src="https://raw.githubusercontent.com/nct911/.github/main/images/nct911Logo-Color.png">
 </picture>
 
 # North Central Texas Emergency Communications District
